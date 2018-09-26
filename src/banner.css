@@ -1,0 +1,10 @@
+.banner {
+    background-image: url(https://jesseshawcodes.github.io/mumu/images/backgroundimage.jpg);
+    background-repeat: no-repeat;
+}
+
+hr {
+    max-width: 50px;
+    border-width: 3px;
+    border-color: #f05f40;
+}
